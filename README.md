@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aesha</h1>
 <h3 align="center">A passionate Software and DevOps Developer  from Canada</h3>
-<img align="right" alt=" " width="400" src="https://cdn.dribbble.com/userupload/7406394/file/original-0e8054735a4c820e799ccebbd130443c.mp4">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
